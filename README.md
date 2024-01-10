@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @papeclem
-- 👀 I’m interested in JAVA, PHP, JS & Python
-- 🌱 I’m currently learning AWS stuff
-- 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me... wait for it...
-- ⛔ Most of my projects are private. I'm sure you understand my friend
+- New GitHub -> https://github.com/papeclem2
